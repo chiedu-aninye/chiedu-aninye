@@ -18,6 +18,18 @@ I work with data to uncover performance gaps, revenue trends, and actionable ins
 
 ---
 
+## 💼 Experience
+
+### Statistician — National Bureau of Statistics (HQ) | Abuja, Nigeria
+*May 2024 – March 2025*
+
+- Worked on national-scale datasets for the **WASH National Outcome Routine Mapping (2024)** — a initiative conducted in collaboration with the **United Nations** — and **Health Facility Mapping (2025)**, supporting two of Nigeria's largest government data collection programs
+- Performed data validation, quality assurance, and consistency checks on field data to ensure compliance with national statistical standards
+- Cleaned, structured, and prepared large datasets for analysis and official government reporting
+- Collaborated with cross-functional teams to ensure datasets were accurate, complete, and publication-ready
+
+---
+
 ## 📂 Projects
 
 ### 📊 Sales Financial Performance Report — Power BI
