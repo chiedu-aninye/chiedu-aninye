@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Chiedu Aninye 👋
 ### Data Analyst | Turning Raw Data into Business Decisions
 
 I work with data to uncover performance gaps, revenue trends, and actionable insights. My focus is on building clean, decision-ready dashboards and reports that stakeholders can actually use.
