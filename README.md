@@ -14,7 +14,7 @@ I work with data to uncover performance gaps, revenue trends, and actionable ins
 
 - **Visualization:** Power BI, Tableau
 - **Data Analysis:** Advanced Excel — VLOOKUP, HLOOKUP, INDEX & MATCH, COUNTIF/COUNTIFS, SUMIF/SUMIFS, IF/IFS/nested logic, IFERROR, TEXT & DATE functions, Pivot Tables, Power Pivot, DAX (CALCULATE, SUMX, RELATED), dynamic dashboards, slicers, timelines, conditional formatting, data validation, named ranges
-- **Querying:** SQL (CTEs, Window Functions, Aggregations)
+- **Querying:** SQL — SELECT statements, filtering & sorting, JOINs (INNER, LEFT, RIGHT), GROUP BY & aggregations, subqueries, CTEs, and window functions
 
 ---
 
