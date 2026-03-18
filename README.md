@@ -33,7 +33,9 @@ I work with data to uncover performance gaps, revenue trends, and actionable ins
 ## 📂 Projects
 
 ### 📊 Sales Financial Performance Report — Power BI
-> Analyzed 14 months of sales data to evaluate financial performance against targets across a 12-person sales team.
+> Developed a 14-month sales performance report in Power BI to evaluate 
+revenue against targets across a 12-person sales team — revealing that 
+targets were met in only 2 of 14 months, with a peak shortfall of $367K.
 
 - Tracked **$19M in actual revenue** against a $19M target across Jan 2023 – Feb 2024
 - Identified that the team met monthly targets in only **2 out of 14 months**, with a peak variance of -$367K
@@ -42,10 +44,12 @@ I work with data to uncover performance gaps, revenue trends, and actionable ins
 
 **Tools used:** Power BI, DAX
 
+🔗 [View Repository](#)
+
 ---
 
 ### 📈 Sales Performance Dashboard — Excel
-> Built a multi-sheet Excel workbook analyzing sales across product categories, regions, and time periods.
+> Used advanced Excel functions (VLOOKUP, HLOOKUP, COUNTIF, SUMIF) and Power Pivot to build calculated KPI measures and automate data aggregation across 1,952 transactions
 
 - Tracked **$1.92M in revenue** and **$224K in profit** across 1,952 transactions
 - Broke down performance by region (Central, East, South, West) and category (Furniture, Office Supplies, Technology)
@@ -54,6 +58,23 @@ I work with data to uncover performance gaps, revenue trends, and actionable ins
 - Used **VLOOKUP, HLOOKUP, COUNTIF, SUMIF** for data preparation and **Power Pivot** for calculated measures and KPI aggregations
 
 **Tools used:** Excel, Power Pivot
+
+🔗 [View Repository](#)
+
+---
+
+### 📊 Financial Performance Dashboard — Google Looker Studio
+
+Built an end-to-end interactive dashboard tracking $55.4M in sales and $31.6M in profit across 34 countries and 6 product categories.
+
+- Designed drill-down KPI reporting across Country, Product Category, Sub-Category, and Promotion — identifying the US as the top market at $18M profit and Computers as the leading category at $12.2M
+- Built a monthly Sales & Profit trend chart revealing a July revenue peak of $5.4M and an October dip — providing visibility into seasonal demand cycles for inventory and marketing planning
+- Produced a 13-quarter Cost Analysis (Q3 2021–Q3 2024) comparing Unit Cost vs. Cost of Sales — surfacing the business's scalable margin structure
+- Uncovered that "No Discount" promotions generated $10.6M in profit — outperforming all discount campaigns combined, directly challenging conventional pricing strategy
+
+**Tools used:** Excel, Google Looker Studio
+
+🔗 [View Live Dashboard](https://lookerstudio.google.com/s/vBJdD5vYF78) · [View Repository](#)
 
 ---
 
