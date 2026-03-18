@@ -47,7 +47,7 @@ targets were met in only 2 of 14 months, with a peak shortfall of $367K.
 
 **Tools used:** Excel, Power Pivot
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/chiedu-aninye/sales-performance-dashboard-excel)
 
 ---
 
