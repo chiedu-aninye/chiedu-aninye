@@ -32,7 +32,7 @@ targets were met in only 2 of 14 months, with a peak shortfall of $367K.
 
 **Tools used:** Power BI, DAX
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/chiedu-aninye/sales-financial-performance-powerbi)
 
 ---
 
